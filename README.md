@@ -1,7 +1,6 @@
 # EnsembleExploration
 
-https://medium.com/nlplanet/a-model-distillation-survey-7f0e1b56b3cf <br>
-https://arxiv.org/pdf/2006.05525.pdf
+
 
 Purpose of Model Distillation:<br>
 Model distillation is used to make large-scale machine learning models practical for real-world applications by transferring knowledge from a complex teacher model to a simpler student model.<br>
@@ -23,4 +22,6 @@ Knowledge can be response-based (last output layer), feature-based (intermediate
 <br>
 Distillation Schemes:<br>
 Different distillation schemes include offline distillation (sequential teacher-student training), online distillation (simultaneous teacher-student updates), and self-distillation (using the same network for both teacher and student).<br>
-
+<br>
+https://medium.com/nlplanet/a-model-distillation-survey-7f0e1b56b3cf <br>
+https://arxiv.org/pdf/2006.05525.pdf
