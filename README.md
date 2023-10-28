@@ -17,8 +17,10 @@ Soft targets, which include probabilities for multiple classes, can help the stu
 <br>
 MNIST Dataset Experiment:<br>
 An MNIST dataset experiment showed that soft targets from a teacher model can transfer a significant amount of knowledge to a distilled student model, even when the teacher model has not seen certain classes during training.<br>
+<br>
 Types of Knowledge in Distillation:<br>
 Knowledge can be response-based (last output layer), feature-based (intermediate layers), or relation-based (relationships between layers or data samples).<br>
+<br>
 Distillation Schemes:<br>
 Different distillation schemes include offline distillation (sequential teacher-student training), online distillation (simultaneous teacher-student updates), and self-distillation (using the same network for both teacher and student).<br>
 
