@@ -24,4 +24,4 @@ Distillation Schemes:<br>
 Different distillation schemes include offline distillation (sequential teacher-student training), online distillation (simultaneous teacher-student updates), and self-distillation (using the same network for both teacher and student).<br>
 <br>
 https://medium.com/nlplanet/a-model-distillation-survey-7f0e1b56b3cf <br>
-https://arxiv.org/pdf/2006.05525.pdf
+https://arxiv.org/pdf/2305.02301.pdf
